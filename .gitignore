@@ -1,0 +1,7 @@
+/bin/
+/coverage.out
+/*.sarif
+/sizinti
+/sizinti.exe
+*.prof
+.DS_Store
