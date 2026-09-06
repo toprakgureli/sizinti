@@ -1,0 +1,7 @@
+workers: 4
+entropy-threshold: 4.5
+max-file-size: 10485760
+include-fixtures: false
+ignore-file: .sizintiignore
+format: table
+no-color: false
